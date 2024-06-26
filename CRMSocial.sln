@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMSocial.Server", "CRMSocial.Server\CRMSocial.Server.csproj", "{48AA01FF-34B0-43A9-8DEB-17D2631ED479}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "crmsocial.client", "crmsocial.client\crmsocial.client.esproj", "{9F6BFAD3-6DDA-456A-B9B4-09A5EBEE5F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AA01FF-34B0-43A9-8DEB-17D2631ED479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AA01FF-34B0-43A9-8DEB-17D2631ED479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AA01FF-34B0-43A9-8DEB-17D2631ED479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AA01FF-34B0-43A9-8DEB-17D2631ED479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6BFAD3-6DDA-456A-B9B4-09A5EBEE5F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6BFAD3-6DDA-456A-B9B4-09A5EBEE5F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6BFAD3-6DDA-456A-B9B4-09A5EBEE5F52}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9F6BFAD3-6DDA-456A-B9B4-09A5EBEE5F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6BFAD3-6DDA-456A-B9B4-09A5EBEE5F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6BFAD3-6DDA-456A-B9B4-09A5EBEE5F52}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A2EA0D-C6E4-4387-8DDD-016D8A18B77E}
+	EndGlobalSection
+EndGlobal

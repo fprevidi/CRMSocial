@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "Hash": "Fy5vnB8A3N6KECWsg/AG+hkkOmxeWkc0QveQ+uo97yE=",
+  "Source": "CRMSocial.Server",
+  "BasePath": "_content/CRMSocial.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\fprev\\Documents\\Clienti\\LaClinica\\CRMSocial\\crmsocial.client\\crmsocial.client.esproj",
+      "Version": 2,
+      "Source": "crmsocial.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRMSocial.Server\\wwwroot",
+      "Source": "CRMSocial.Server",
+      "ContentRoot": "C:\\Users\\fprev\\Documents\\Clienti\\LaClinica\\CRMSocial\\CRMSocial.Server\\wwwroot\\",
+      "BasePath": "_content/CRMSocial.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
